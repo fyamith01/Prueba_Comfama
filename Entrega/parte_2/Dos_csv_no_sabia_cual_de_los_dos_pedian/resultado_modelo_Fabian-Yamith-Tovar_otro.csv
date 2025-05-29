@@ -1,0 +1,243 @@
+﻿Tipo_Analisis;Item_Analisis;Estadistica;Valor
+Estadisticas Generales Cantidad Afiliados;General;count;47232.0
+Estadisticas Generales Cantidad Afiliados;General;mean;240.39176829268294
+Estadisticas Generales Cantidad Afiliados;General;std;539.1242535261991
+Estadisticas Generales Cantidad Afiliados;General;min;69.0
+Estadisticas Generales Cantidad Afiliados;General;25%;84.0
+Estadisticas Generales Cantidad Afiliados;General;50%;115.0
+Estadisticas Generales Cantidad Afiliados;General;75%;205.0
+Estadisticas Generales Cantidad Afiliados;General;max;12338.0
+Resumen por Subregion;Valle de Aburra;Total_Afiliados;11354184.0
+Resumen por Subregion;Valle de Aburra;Promedio_Afiliados;240.39176829268294
+Resumen por Subregion;Valle de Aburra;Conteo_Empresas_Periodo;47232.0
+Resumen por Subregion;Valle de Aburra;Mediana_Afiliados;115.0
+Resumen por Subregion;Valle de Aburra;Max_Afiliados;12338.0
+Resumen por Subregion;Valle de Aburra;Min_Afiliados;69.0
+Resumen por Seccion Economica;A_Agric, Gan, Caza,Silvi,Pes;Total_Afiliados;141261.0
+Resumen por Seccion Economica;B_Explota. de minas y canteras;Total_Afiliados;62644.0
+Resumen por Seccion Economica;C_Industrias Manufactureras;Total_Afiliados;2096735.0
+Resumen por Seccion Economica;D_Sum. elec., gas,vapor,aire;Total_Afiliados;176517.0
+Resumen por Seccion Economica;E_Distr Agua y Saneamiento amb;Total_Afiliados;40925.0
+Resumen por Seccion Economica;F_Construcción;Total_Afiliados;971391.0
+Resumen por Seccion Economica;G_Comercio y Rep. Automotores;Total_Afiliados;1226868.0
+Resumen por Seccion Economica;H_Transporte y almacenamiento;Total_Afiliados;599617.0
+Resumen por Seccion Economica;I_Alojamiento, serv. de comida;Total_Afiliados;311639.0
+Resumen por Seccion Economica;J_Informacion y comunicaciones;Total_Afiliados;741962.0
+Resumen por Seccion Economica;K_Activ. financieras y seguros;Total_Afiliados;467038.0
+Resumen por Seccion Economica;L_Actividades inmobiliarias;Total_Afiliados;76182.0
+Resumen por Seccion Economica;M_Act. profesionales, cie. tec;Total_Afiliados;761773.0
+Resumen por Seccion Economica;N_Serv. Administra. y de apoyo;Total_Afiliados;1621498.0
+Resumen por Seccion Economica;O_Admon Pública y Seg. Social;Total_Afiliados;387225.0
+Resumen por Seccion Economica;P_Educación;Total_Afiliados;425725.0
+Resumen por Seccion Economica;Q_Actv de atención de la Salud;Total_Afiliados;752110.0
+Resumen por Seccion Economica;R_Actv artisticas y Recreación;Total_Afiliados;52536.0
+Resumen por Seccion Economica;S_Otras Actividades de serv;Total_Afiliados;430355.0
+Resumen por Seccion Economica;T_Actv Hogares en calidad empl;Total_Afiliados;10183.0
+Resumen por Seccion Economica;A_Agric, Gan, Caza,Silvi,Pes;Promedio_Afiliados;224.22380952380954
+Resumen por Seccion Economica;B_Explota. de minas y canteras;Promedio_Afiliados;220.57746478873239
+Resumen por Seccion Economica;C_Industrias Manufactureras;Promedio_Afiliados;207.22820715556435
+Resumen por Seccion Economica;D_Sum. elec., gas,vapor,aire;Promedio_Afiliados;1765.17
+Resumen por Seccion Economica;E_Distr Agua y Saneamiento amb;Promedio_Afiliados;286.1888111888112
+Resumen por Seccion Economica;F_Construcción;Promedio_Afiliados;158.9837970540098
+Resumen por Seccion Economica;G_Comercio y Rep. Automotores;Promedio_Afiliados;163.4080980287693
+Resumen por Seccion Economica;H_Transporte y almacenamiento;Promedio_Afiliados;199.27450980392157
+Resumen por Seccion Economica;I_Alojamiento, serv. de comida;Promedio_Afiliados;191.30693677102516
+Resumen por Seccion Economica;J_Informacion y comunicaciones;Promedio_Afiliados;335.12285456187897
+Resumen por Seccion Economica;K_Activ. financieras y seguros;Promedio_Afiliados;414.40816326530614
+Resumen por Seccion Economica;L_Actividades inmobiliarias;Promedio_Afiliados;122.47909967845659
+Resumen por Seccion Economica;M_Act. profesionales, cie. tec;Promedio_Afiliados;222.15602216389618
+Resumen por Seccion Economica;N_Serv. Administra. y de apoyo;Promedio_Afiliados;390.064469569401
+Resumen por Seccion Economica;O_Admon Pública y Seg. Social;Promedio_Afiliados;902.6223776223776
+Resumen por Seccion Economica;P_Educación;Promedio_Afiliados;280.8212401055409
+Resumen por Seccion Economica;Q_Actv de atención de la Salud;Promedio_Afiliados;330.01755155770076
+Resumen por Seccion Economica;R_Actv artisticas y Recreación;Promedio_Afiliados;158.7190332326284
+Resumen por Seccion Economica;S_Otras Actividades de serv;Promedio_Afiliados;285.1921802518224
+Resumen por Seccion Economica;T_Actv Hogares en calidad empl;Promedio_Afiliados;115.7159090909091
+Resumen por Seccion Economica;A_Agric, Gan, Caza,Silvi,Pes;Conteo_Empresas_Periodo;630.0
+Resumen por Seccion Economica;B_Explota. de minas y canteras;Conteo_Empresas_Periodo;284.0
+Resumen por Seccion Economica;C_Industrias Manufactureras;Conteo_Empresas_Periodo;10118.0
+Resumen por Seccion Economica;D_Sum. elec., gas,vapor,aire;Conteo_Empresas_Periodo;100.0
+Resumen por Seccion Economica;E_Distr Agua y Saneamiento amb;Conteo_Empresas_Periodo;143.0
+Resumen por Seccion Economica;F_Construcción;Conteo_Empresas_Periodo;6110.0
+Resumen por Seccion Economica;G_Comercio y Rep. Automotores;Conteo_Empresas_Periodo;7508.0
+Resumen por Seccion Economica;H_Transporte y almacenamiento;Conteo_Empresas_Periodo;3009.0
+Resumen por Seccion Economica;I_Alojamiento, serv. de comida;Conteo_Empresas_Periodo;1629.0
+Resumen por Seccion Economica;J_Informacion y comunicaciones;Conteo_Empresas_Periodo;2214.0
+Resumen por Seccion Economica;K_Activ. financieras y seguros;Conteo_Empresas_Periodo;1127.0
+Resumen por Seccion Economica;L_Actividades inmobiliarias;Conteo_Empresas_Periodo;622.0
+Resumen por Seccion Economica;M_Act. profesionales, cie. tec;Conteo_Empresas_Periodo;3429.0
+Resumen por Seccion Economica;N_Serv. Administra. y de apoyo;Conteo_Empresas_Periodo;4157.0
+Resumen por Seccion Economica;O_Admon Pública y Seg. Social;Conteo_Empresas_Periodo;429.0
+Resumen por Seccion Economica;P_Educación;Conteo_Empresas_Periodo;1516.0
+Resumen por Seccion Economica;Q_Actv de atención de la Salud;Conteo_Empresas_Periodo;2279.0
+Resumen por Seccion Economica;R_Actv artisticas y Recreación;Conteo_Empresas_Periodo;331.0
+Resumen por Seccion Economica;S_Otras Actividades de serv;Conteo_Empresas_Periodo;1509.0
+Resumen por Seccion Economica;T_Actv Hogares en calidad empl;Conteo_Empresas_Periodo;88.0
+Resumen por Seccion Economica;A_Agric, Gan, Caza,Silvi,Pes;Mediana_Afiliados;101.0
+Resumen por Seccion Economica;B_Explota. de minas y canteras;Mediana_Afiliados;137.0
+Resumen por Seccion Economica;C_Industrias Manufactureras;Mediana_Afiliados;118.0
+Resumen por Seccion Economica;D_Sum. elec., gas,vapor,aire;Mediana_Afiliados;531.0
+Resumen por Seccion Economica;E_Distr Agua y Saneamiento amb;Mediana_Afiliados;147.0
+Resumen por Seccion Economica;F_Construcción;Mediana_Afiliados;105.0
+Resumen por Seccion Economica;G_Comercio y Rep. Automotores;Mediana_Afiliados;102.0
+Resumen por Seccion Economica;H_Transporte y almacenamiento;Mediana_Afiliados;124.0
+Resumen por Seccion Economica;I_Alojamiento, serv. de comida;Mediana_Afiliados;101.0
+Resumen por Seccion Economica;J_Informacion y comunicaciones;Mediana_Afiliados;115.5
+Resumen por Seccion Economica;K_Activ. financieras y seguros;Mediana_Afiliados;148.0
+Resumen por Seccion Economica;L_Actividades inmobiliarias;Mediana_Afiliados;92.0
+Resumen por Seccion Economica;M_Act. profesionales, cie. tec;Mediana_Afiliados;114.0
+Resumen por Seccion Economica;N_Serv. Administra. y de apoyo;Mediana_Afiliados;132.0
+Resumen por Seccion Economica;O_Admon Pública y Seg. Social;Mediana_Afiliados;252.0
+Resumen por Seccion Economica;P_Educación;Mediana_Afiliados;135.0
+Resumen por Seccion Economica;Q_Actv de atención de la Salud;Mediana_Afiliados;143.0
+Resumen por Seccion Economica;R_Actv artisticas y Recreación;Mediana_Afiliados;99.0
+Resumen por Seccion Economica;S_Otras Actividades de serv;Mediana_Afiliados;114.0
+Resumen por Seccion Economica;T_Actv Hogares en calidad empl;Mediana_Afiliados;94.0
+Resumen por Seccion Economica;A_Agric, Gan, Caza,Silvi,Pes;Max_Afiliados;1567.0
+Resumen por Seccion Economica;B_Explota. de minas y canteras;Max_Afiliados;922.0
+Resumen por Seccion Economica;C_Industrias Manufactureras;Max_Afiliados;3287.0
+Resumen por Seccion Economica;D_Sum. elec., gas,vapor,aire;Max_Afiliados;8519.0
+Resumen por Seccion Economica;E_Distr Agua y Saneamiento amb;Max_Afiliados;1507.0
+Resumen por Seccion Economica;F_Construcción;Max_Afiliados;2257.0
+Resumen por Seccion Economica;G_Comercio y Rep. Automotores;Max_Afiliados;2763.0
+Resumen por Seccion Economica;H_Transporte y almacenamiento;Max_Afiliados;2618.0
+Resumen por Seccion Economica;I_Alojamiento, serv. de comida;Max_Afiliados;3434.0
+Resumen por Seccion Economica;J_Informacion y comunicaciones;Max_Afiliados;12338.0
+Resumen por Seccion Economica;K_Activ. financieras y seguros;Max_Afiliados;11260.0
+Resumen por Seccion Economica;L_Actividades inmobiliarias;Max_Afiliados;330.0
+Resumen por Seccion Economica;M_Act. profesionales, cie. tec;Max_Afiliados;2088.0
+Resumen por Seccion Economica;N_Serv. Administra. y de apoyo;Max_Afiliados;9797.0
+Resumen por Seccion Economica;O_Admon Pública y Seg. Social;Max_Afiliados;5725.0
+Resumen por Seccion Economica;P_Educación;Max_Afiliados;2725.0
+Resumen por Seccion Economica;Q_Actv de atención de la Salud;Max_Afiliados;4258.0
+Resumen por Seccion Economica;R_Actv artisticas y Recreación;Max_Afiliados;615.0
+Resumen por Seccion Economica;S_Otras Actividades de serv;Max_Afiliados;6211.0
+Resumen por Seccion Economica;T_Actv Hogares en calidad empl;Max_Afiliados;281.0
+Resumen por Seccion Economica;A_Agric, Gan, Caza,Silvi,Pes;Min_Afiliados;69.0
+Resumen por Seccion Economica;B_Explota. de minas y canteras;Min_Afiliados;69.0
+Resumen por Seccion Economica;C_Industrias Manufactureras;Min_Afiliados;69.0
+Resumen por Seccion Economica;D_Sum. elec., gas,vapor,aire;Min_Afiliados;74.0
+Resumen por Seccion Economica;E_Distr Agua y Saneamiento amb;Min_Afiliados;69.0
+Resumen por Seccion Economica;F_Construcción;Min_Afiliados;69.0
+Resumen por Seccion Economica;G_Comercio y Rep. Automotores;Min_Afiliados;69.0
+Resumen por Seccion Economica;H_Transporte y almacenamiento;Min_Afiliados;69.0
+Resumen por Seccion Economica;I_Alojamiento, serv. de comida;Min_Afiliados;69.0
+Resumen por Seccion Economica;J_Informacion y comunicaciones;Min_Afiliados;69.0
+Resumen por Seccion Economica;K_Activ. financieras y seguros;Min_Afiliados;69.0
+Resumen por Seccion Economica;L_Actividades inmobiliarias;Min_Afiliados;69.0
+Resumen por Seccion Economica;M_Act. profesionales, cie. tec;Min_Afiliados;69.0
+Resumen por Seccion Economica;N_Serv. Administra. y de apoyo;Min_Afiliados;69.0
+Resumen por Seccion Economica;O_Admon Pública y Seg. Social;Min_Afiliados;75.0
+Resumen por Seccion Economica;P_Educación;Min_Afiliados;69.0
+Resumen por Seccion Economica;Q_Actv de atención de la Salud;Min_Afiliados;69.0
+Resumen por Seccion Economica;R_Actv artisticas y Recreación;Min_Afiliados;69.0
+Resumen por Seccion Economica;S_Otras Actividades de serv;Min_Afiliados;69.0
+Resumen por Seccion Economica;T_Actv Hogares en calidad empl;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de administración empresarial;Total_Afiliados;245534.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de centros de llamadas (Call center);Total_Afiliados;278188.0
+Resumen por Clase Economica (Top 10 por No. Registros);Confección de prendas de vestir, excepto prendas de piel.;Total_Afiliados;440995.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de carreteras y vías de ferrocarril.;Total_Afiliados;160180.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de edificios residenciales.;Total_Afiliados;275699.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de otras obras de ingeniería civil.;Total_Afiliados;209542.0
+Resumen por Clase Economica (Top 10 por No. Registros);Expendio a la mesa de comidas preparadas.;Total_Afiliados;140634.0
+Resumen por Clase Economica (Top 10 por No. Registros);Terminación y acabado de edificios y obras de ingeniería civ;Total_Afiliados;81552.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de carga por carretera.;Total_Afiliados;148493.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de pasajeros.;Total_Afiliados;280291.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de administración empresarial;Promedio_Afiliados;228.40372093023257
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de centros de llamadas (Call center);Promedio_Afiliados;422.7781155015198
+Resumen por Clase Economica (Top 10 por No. Registros);Confección de prendas de vestir, excepto prendas de piel.;Promedio_Afiliados;196.6971454058876
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de carreteras y vías de ferrocarril.;Promedio_Afiliados;200.7268170426065
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de edificios residenciales.;Promedio_Afiliados;163.61958456973295
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de otras obras de ingeniería civil.;Promedio_Afiliados;137.94733377221857
+Resumen por Clase Economica (Top 10 por No. Registros);Expendio a la mesa de comidas preparadas.;Promedio_Afiliados;162.39491916859123
+Resumen por Clase Economica (Top 10 por No. Registros);Terminación y acabado de edificios y obras de ingeniería civ;Promedio_Afiliados;119.92941176470588
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de carga por carretera.;Promedio_Afiliados;177.4109916367981
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de pasajeros.;Promedio_Afiliados;240.38679245283018
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de administración empresarial;Conteo_Empresas_Periodo;1075.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de centros de llamadas (Call center);Conteo_Empresas_Periodo;658.0
+Resumen por Clase Economica (Top 10 por No. Registros);Confección de prendas de vestir, excepto prendas de piel.;Conteo_Empresas_Periodo;2242.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de carreteras y vías de ferrocarril.;Conteo_Empresas_Periodo;798.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de edificios residenciales.;Conteo_Empresas_Periodo;1685.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de otras obras de ingeniería civil.;Conteo_Empresas_Periodo;1519.0
+Resumen por Clase Economica (Top 10 por No. Registros);Expendio a la mesa de comidas preparadas.;Conteo_Empresas_Periodo;866.0
+Resumen por Clase Economica (Top 10 por No. Registros);Terminación y acabado de edificios y obras de ingeniería civ;Conteo_Empresas_Periodo;680.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de carga por carretera.;Conteo_Empresas_Periodo;837.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de pasajeros.;Conteo_Empresas_Periodo;1166.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de administración empresarial;Mediana_Afiliados;115.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de centros de llamadas (Call center);Mediana_Afiliados;160.0
+Resumen por Clase Economica (Top 10 por No. Registros);Confección de prendas de vestir, excepto prendas de piel.;Mediana_Afiliados;103.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de carreteras y vías de ferrocarril.;Mediana_Afiliados;116.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de edificios residenciales.;Mediana_Afiliados;110.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de otras obras de ingeniería civil.;Mediana_Afiliados;101.0
+Resumen por Clase Economica (Top 10 por No. Registros);Expendio a la mesa de comidas preparadas.;Mediana_Afiliados;102.5
+Resumen por Clase Economica (Top 10 por No. Registros);Terminación y acabado de edificios y obras de ingeniería civ;Mediana_Afiliados;98.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de carga por carretera.;Mediana_Afiliados;117.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de pasajeros.;Mediana_Afiliados;143.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de administración empresarial;Max_Afiliados;1920.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de centros de llamadas (Call center);Max_Afiliados;2503.0
+Resumen por Clase Economica (Top 10 por No. Registros);Confección de prendas de vestir, excepto prendas de piel.;Max_Afiliados;3103.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de carreteras y vías de ferrocarril.;Max_Afiliados;1144.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de edificios residenciales.;Max_Afiliados;1154.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de otras obras de ingeniería civil.;Max_Afiliados;2257.0
+Resumen por Clase Economica (Top 10 por No. Registros);Expendio a la mesa de comidas preparadas.;Max_Afiliados;1551.0
+Resumen por Clase Economica (Top 10 por No. Registros);Terminación y acabado de edificios y obras de ingeniería civ;Max_Afiliados;402.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de carga por carretera.;Max_Afiliados;1502.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de pasajeros.;Max_Afiliados;2618.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de administración empresarial;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Actividades de centros de llamadas (Call center);Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Confección de prendas de vestir, excepto prendas de piel.;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de carreteras y vías de ferrocarril.;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de edificios residenciales.;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Construcción de otras obras de ingeniería civil.;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Expendio a la mesa de comidas preparadas.;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Terminación y acabado de edificios y obras de ingeniería civ;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de carga por carretera.;Min_Afiliados;69.0
+Resumen por Clase Economica (Top 10 por No. Registros);Transporte de pasajeros.;Min_Afiliados;69.0
+Resumen por Periodo;2023-02;Total_Afiliados;709547.0
+Resumen por Periodo;2023-03;Total_Afiliados;719927.0
+Resumen por Periodo;2023-04;Total_Afiliados;716806.0
+Resumen por Periodo;2023-05;Total_Afiliados;720486.0
+Resumen por Periodo;2023-06;Total_Afiliados;716907.0
+Resumen por Periodo;2023-07;Total_Afiliados;713421.0
+Resumen por Periodo;2023-08;Total_Afiliados;716346.0
+Resumen por Periodo;2023-09;Total_Afiliados;714894.0
+Resumen por Periodo;2023-10;Total_Afiliados;717909.0
+Resumen por Periodo;2023-11;Total_Afiliados;722479.0
+Resumen por Periodo;2023-12;Total_Afiliados;699833.0
+Resumen por Periodo;2024-01;Total_Afiliados;684730.0
+Resumen por Periodo;2024-02;Total_Afiliados;696885.0
+Resumen por Periodo;2024-03;Total_Afiliados;693583.0
+Resumen por Periodo;2024-04;Total_Afiliados;706023.0
+Resumen por Periodo;2024-05;Total_Afiliados;704408.0
+Resumen por Periodo;2023-02;Promedio_Afiliados;239.95502198173824
+Resumen por Periodo;2023-03;Promedio_Afiliados;238.70258620689654
+Resumen por Periodo;2023-04;Promedio_Afiliados;239.8146537303446
+Resumen por Periodo;2023-05;Promedio_Afiliados;239.28462304882098
+Resumen por Periodo;2023-06;Promedio_Afiliados;238.09598140152772
+Resumen por Periodo;2023-07;Promedio_Afiliados;238.20400667779631
+Resumen por Periodo;2023-08;Promedio_Afiliados;240.38456375838925
+Resumen por Periodo;2023-09;Promedio_Afiliados;241.27370907863653
+Resumen por Periodo;2023-10;Promedio_Afiliados;240.90906040268456
+Resumen por Periodo;2023-11;Promedio_Afiliados;240.02624584717609
+Resumen por Periodo;2023-12;Promedio_Afiliados;241.32172413793103
+Resumen por Periodo;2024-01;Promedio_Afiliados;242.2965322009908
+Resumen por Periodo;2024-02;Promedio_Afiliados;242.56352245040028
+Resumen por Periodo;2024-03;Promedio_Afiliados;240.66030534351145
+Resumen por Periodo;2024-04;Promedio_Afiliados;241.62320328542094
+Resumen por Periodo;2024-05;Promedio_Afiliados;241.4837161467261
+Resumen por Periodo;2023-02;Conteo_Empresas_Periodo;2957.0
+Resumen por Periodo;2023-03;Conteo_Empresas_Periodo;3016.0
+Resumen por Periodo;2023-04;Conteo_Empresas_Periodo;2989.0
+Resumen por Periodo;2023-05;Conteo_Empresas_Periodo;3011.0
+Resumen por Periodo;2023-06;Conteo_Empresas_Periodo;3011.0
+Resumen por Periodo;2023-07;Conteo_Empresas_Periodo;2995.0
+Resumen por Periodo;2023-08;Conteo_Empresas_Periodo;2980.0
+Resumen por Periodo;2023-09;Conteo_Empresas_Periodo;2963.0
+Resumen por Periodo;2023-10;Conteo_Empresas_Periodo;2980.0
+Resumen por Periodo;2023-11;Conteo_Empresas_Periodo;3010.0
+Resumen por Periodo;2023-12;Conteo_Empresas_Periodo;2900.0
+Resumen por Periodo;2024-01;Conteo_Empresas_Periodo;2826.0
+Resumen por Periodo;2024-02;Conteo_Empresas_Periodo;2873.0
+Resumen por Periodo;2024-03;Conteo_Empresas_Periodo;2882.0
+Resumen por Periodo;2024-04;Conteo_Empresas_Periodo;2922.0
+Resumen por Periodo;2024-05;Conteo_Empresas_Periodo;2917.0
